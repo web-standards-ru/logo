@@ -14,9 +14,9 @@
 
 <table>
 <tr>
-	<td><img src="/web-standards-ru/logo/raw/master/light.svg" width="200"></td>
-	<td style="background:#47728b"><img src="/web-standards-ru/logo/raw/master/dark.svg" width="200"></td>
-	<td><img src="/web-standards-ru/logo/raw/master/mono.svg" width="200"></td>
+	<td><img src="https://raw.githubusercontent.com/web-standards-ru/logo/raw/master/light.svg" width="200"></td>
+	<td style="background:#47728b"><img src="https://raw.githubusercontent.com/web-standards-ru/logo/raw/master/dark.svg" width="200"></td>
+	<td><img src="https://raw.githubusercontent.com/web-standards-ru/logo/raw/master/mono.svg" width="200"></td>
 </tr>
 </table>
 
