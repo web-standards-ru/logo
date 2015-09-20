@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1044 1144">
+	<title>Веб-стандарты</title>
+	<defs>
+		<linearGradient id="l1" gradientUnits="userSpaceOnUse" x1="984" y1="572" x2="984" y2="316">
+			<stop offset="0" stop-color="#a8cd4b"/>
+			<stop offset="0.9" stop-color="#98c55b"/>
+		</linearGradient>
+		<linearGradient id="l2" gradientUnits="userSpaceOnUse" x1="984" y1="316" x2="522" y2="60">
+			<stop offset="0" stop-color="#98c55b"/>
+			<stop offset="0.9" stop-color="#79b580"/>
+		</linearGradient>
+		<linearGradient id="l3" gradientUnits="userSpaceOnUse" x1="522" y1="60" x2="60" y2="316">
+			<stop offset="0" stop-color="#79b580"/>
+			<stop offset="0.8" stop-color="#5aa5a7"/>
+		</linearGradient>
+		<linearGradient id="l4" gradientUnits="userSpaceOnUse" x1="60" y1="316" x2="522" y2="572">
+			<stop offset="0" stop-color="#5aa5a7"/>
+			<stop offset="0.9" stop-color="#4a94b1"/>
+		</linearGradient>
+		<linearGradient id="l5" gradientUnits="userSpaceOnUse" x1="522" y1="572" x2="522" y2="1084">
+			<stop offset="0" stop-color="#4a94b1"/>
+			<stop offset="0.8" stop-color="#49839f"/>
+		</linearGradient>
+		<linearGradient id="l6" gradientUnits="userSpaceOnUse" x1="984" y1="828" x2="522" y2="1084">
+			<stop offset="0" stop-color="#466d85"/>
+			<stop offset="0.7" stop-color="#49839f"/>
+		</linearGradient>
+		<linearGradient id="l7" gradientUnits="userSpaceOnUse" x1="522" y1="1084" x2="60" y2="828">
+			<stop offset="0.3" stop-color="#49839f"/>
+			<stop offset="0.9" stop-color="#47728b"/>
+		</linearGradient>
+		<linearGradient id="l8" gradientUnits="userSpaceOnUse" x1="60" y1="828" x2="60" y2="572">
+			<stop offset="0" stop-color="#47728b"/>
+			<stop offset="1" stop-color="#456a81"/>
+		</linearGradient>
+	</defs>
+	<g stroke-width="120" stroke-linecap="round" stroke-linejoin="round" fill="none">
+		<polyline stroke="url(#l1)" points="984,572 984,316"/>
+		<polyline stroke="url(#l2)" points="984,316 522,60"/>
+		<polyline stroke="url(#l3)" points="522,60 60,316"/>
+		<polyline stroke="url(#l4)" points="60,316 522,572"/>
+		<polyline stroke="url(#l5)" points="522,572 522,1084"/>
+		<polyline stroke="url(#l6)" points="984,828 522,1084"/>
+		<polyline stroke="url(#l7)" points="522,1084 60,828"/>
+		<polyline stroke="url(#l8)" points="60,828 60,572"/>
+	</g>
+</svg>
