@@ -12,14 +12,6 @@
 
 Знак представляет собой изомерическую проекцию куба, через грани которого идёт линейный градиент. Впервые идея кубов, как стандартной, простой фигуры, появилась в первом логотипе «Веб-стандартов» из трёх цветных квадратов и объёмной версии из кубов.
 
-<table>
-<tr>
-	<td><img src="https://raw.githubusercontent.com/web-standards-ru/logo/raw/master/light.svg" width="200"></td>
-	<td style="background:#47728b"><img src="https://raw.githubusercontent.com/web-standards-ru/logo/raw/master/dark.svg" width="200"></td>
-	<td><img src="https://raw.githubusercontent.com/web-standards-ru/logo/raw/master/mono.svg" width="200"></td>
-</tr>
-</table>
-
 ## Цвета
 
 - Зелёный
