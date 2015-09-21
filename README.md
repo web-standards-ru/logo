@@ -38,7 +38,7 @@ SVG: [светлый](light.svg), [тёмный](dark.svg), [монохромн�
 
 ![Логотип на разных фонах](pictures/logos-type.png)
 
-SVG: [светлый](light-type.svg), [тёмный](dark-type.svg), [монохромный](mono-type.svg). Текст набран шрифтом Ubuntu Medium.
+SVG: [светлый](light-type.svg), [тёмный](dark-type.svg), [монохромный](mono-type.svg). Текст набран шрифтом [Ubuntu Medium](http://font.ubuntu.com/#charset-medium).
 
 ## Цвета
 
