@@ -42,7 +42,7 @@ SVG: [светлый](light.svg), [тёмный](dark.svg), [монохромн�
 
 ### Логотип
 
-![Логотип ВСТ на разных фонах](pictures/logos-type.png)
+![Логотип ВСТ на разных фонах](pictures/wst.png)
 
 SVG: [светлый](light-wst-type.svg), [тёмный](dark-wst-type.svg), [монохромный](mono-wst-type.svg). Текст набран шрифтом [Ubuntu Medium](http://font.ubuntu.com/#charset-medium).
 
@@ -52,7 +52,7 @@ SVG: [светлый](light-wst-type.svg), [тёмный](dark-wst-type.svg), [�
 
 ### Логотип
 
-![Логотип WSD на разных фонах](pictures/logos-type.png)
+![Логотип WSD на разных фонах](pictures/wsd.png)
 
 SVG: [светлый](light-wsd-type.svg), [тёмный](dark-wsd-type.svg), [монохромный](mono-wsd-type.svg). Текст набран шрифтом [Ubuntu Medium](http://font.ubuntu.com/#charset-medium).
 
